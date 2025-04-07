@@ -28,7 +28,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Support
-If you encounter any issues or have any questions, please feel free to contact us at [email@example.com](mailto:email@example.com).
+If you encounter any issues or have any questions, please feel free to contact us at [subhrasundarsinha21@gmail.com](mailto:subhrasundarsinha21@gmail.com).
 
 Thank you for using the Github README Generator!
 
